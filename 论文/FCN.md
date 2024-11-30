@@ -2,11 +2,8 @@
 
 > 标题：Fully Convolutional Networks for Semantic Segmentation
 
-
-
-# 任务
-
-语义分割
+> 任务：语义分割
+>
 
 
 

@@ -2,17 +2,7 @@
 
 > 标题：MMSFORMER: MULTIMODAL TRANSFORMER FOR MATERIAL  AND SEMANTIC SEGMENTATION
 
-> 图像划分patch MLP Conv
-
-
-
-
-
-# 任务
-
-语义分割
-
-
+> 任务：语义分割
 
 
 

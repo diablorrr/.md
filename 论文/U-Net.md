@@ -2,11 +2,8 @@
 
 > 标题：U-Net: Convolutional Networks for Biomedical Image Segmentation
 
-
-
-# 任务
-
-医学图像分割
+> 任务：医学图像分割
+>
 
 
 

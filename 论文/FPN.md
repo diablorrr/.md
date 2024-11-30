@@ -2,13 +2,8 @@
 
 > 标题：Feature Pyramid Networks for Object Detection
 
-
-
-# 任务
-
-小目标检测
-
-
+> 任务：小目标检测
+>
 
 
 
